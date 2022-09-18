@@ -1,0 +1,24 @@
+{
+  "name": "juster",
+  "version": "1.0.0",
+  "description": "a universal JavaScript wheel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gw20000/juster.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "universal",
+    "functions"
+  ],
+  "author": "KKK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gw20000/juster/issues"
+  },
+  "homepage": "https://github.com/gw20000/juster#readme"
+}
