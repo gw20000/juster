@@ -2,7 +2,7 @@
 
 it's a universal JavaScript wheel.
 
-##installation
+## installation
 
 npm i juster
 
