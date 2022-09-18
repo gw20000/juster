@@ -8,7 +8,7 @@ npm  i  juster
 
 ## usage
 
-<script>
+```
     const { flowPath } = require('juster')
     
     let list = []
@@ -24,5 +24,7 @@ npm  i  juster
 
 
   flowPath.throttleSendData(list, 9, 1000, cb)
+  
+ ```
 
-</script>
+
