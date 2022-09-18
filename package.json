@@ -4,7 +4,8 @@
   "description": "a universal JavaScript wheel",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:flow-path": "node test/flow-path"
   },
   "repository": {
     "type": "git",
