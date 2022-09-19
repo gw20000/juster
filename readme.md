@@ -26,7 +26,9 @@ npm  i  juster
    }
 
 
-  flowPath.throttleSendData(list, 9, 1000, cb)
+  flowPath.throttleSendData(list, 9, 1000, cb) 
+  
+  // or  flowPath.throttleSendData(list, 9, cb)  is the same 
   
  ```
 
